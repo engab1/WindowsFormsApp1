@@ -19,14 +19,7 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hahó01");
-            MessageBox.Show("Hahó02");
-            MessageBox.Show("Hahó03");
-            MessageBox.Show("Hahó04");
-            MessageBox.Show("Hahó05");
-            MessageBox.Show("Hahó06");
-            MessageBox.Show("Hahó07");
-            MessageBox.Show("Hahó08");
-            MessageBox.Show("Hahó09");
+            MessageBox.Show("Hahó0222");
         }
     }
 }
