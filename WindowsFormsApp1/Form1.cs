@@ -23,6 +23,8 @@ namespace WindowsFormsApp1
             MessageBox.Show("Hahó03");
             MessageBox.Show("Hahó04");
             MessageBox.Show("Hahó05");
+            MessageBox.Show("Hahó06");
+            MessageBox.Show("Hahó07");
         }
     }
 }
